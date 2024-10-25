@@ -13,12 +13,12 @@ Product REST API is development test assignment for an interview
 ## Installation
 
 ```bash
-   sudo docker compose up
+sudo docker compose up
 ```
 
-![alt text](image.png)
+![alt text](/docs/image.png)
 
-![development test assignment](Task.pdf)
+![development test assignment](/docs/Task.pdf)
 
 ## API
 
@@ -192,7 +192,7 @@ curl -X 'DELETE' \
   -H 'accept: application/json'
 ```
 
-**Пример ответа:**
+**Response:**
 ```json
 {
   "message": "Products deleted successfully",
