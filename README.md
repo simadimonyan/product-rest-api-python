@@ -12,13 +12,23 @@ Product REST API is development test assignment for an interview
 
 ## Installation
 
+1. Clone the repository.
+```bash
+sudo git clone https://github.com/simadimonyan/product-rest-api-python.git
+```
+
+2. Compose the project.
 ```bash
 sudo docker compose up
 ```
 
+## Swagger Docs
+
 ![alt text](/docs/image.png)
 
-[Development test assignment](/docs/Task.pdf)
+## Development test assignment
+
+- [Task](/docs/Task.pdf)
 
 ## API
 
